@@ -1,0 +1,26 @@
+From e843312ff0aab3b5a9eba0ec96d849caeb941b17 Mon Sep 17 00:00:00 2001
+From: SunaMadhu16 <159513282+SunaMadhu16@users.noreply.github.com>
+Date: Thu, 15 Feb 2024 11:29:57 +0530
+Subject: [PATCH 2/2] This is second commit
+
+---
+ GitDemoFile.txt | 4 +++-
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+diff --git a/GitDemoFile.txt b/GitDemoFile.txt
+index e1777d3..34938c7 100644
+--- a/GitDemoFile.txt
++++ b/GitDemoFile.txt
+@@ -6,4 +6,6 @@ ok thank u
+ 
+ practicing patch command
+ 
+-am going to change this file content first time
+\ No newline at end of file
++am going to change this file content first time
++
++2nd time changing this file
+\ No newline at end of file
+-- 
+2.43.0.windows.1
+

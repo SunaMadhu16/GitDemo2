@@ -1,0 +1,25 @@
+From ed8ae74fc19e1001830d3a4ce36ac647ae1644d9 Mon Sep 17 00:00:00 2001
+From: SunaMadhu16 <159513282+SunaMadhu16@users.noreply.github.com>
+Date: Thu, 15 Feb 2024 11:27:11 +0530
+Subject: [PATCH 1/2] This is first commit
+
+---
+ GitDemoFile.txt | 4 ++++
+ 1 file changed, 4 insertions(+)
+
+diff --git a/GitDemoFile.txt b/GitDemoFile.txt
+index 387133b..e1777d3 100644
+--- a/GitDemoFile.txt
++++ b/GitDemoFile.txt
+@@ -3,3 +3,7 @@ This is a demo text file named gitdemo2.txt.
+ Feel free to add your own content here.
+ 
+ ok thank u
++
++practicing patch command
++
++am going to change this file content first time
+\ No newline at end of file
+-- 
+2.43.0.windows.1
+

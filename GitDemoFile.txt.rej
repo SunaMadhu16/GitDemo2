@@ -1,0 +1,9 @@
+--- GitDemoFile.txt
++++ GitDemoFile.txt
+@@ -6,4 +6,6 @@ ok thank u
+ 
+ practicing patch command
+ 
+-am going to change this file content first time+am going to change this file content first time
++
++2nd time changing this file
