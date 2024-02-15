@@ -1,9 +1,11 @@
---- GitDemoFile.txt
-+++ GitDemoFile.txt
+diff a/GitDemoFile.txt b/GitDemoFile.txt	(rejected hunks)
 @@ -6,4 +6,6 @@ ok thank u
  
  practicing patch command
  
--am going to change this file content first time+am going to change this file content first time
+-am going to change this file content first time
+\ No newline at end of file
++am going to change this file content first time
 +
 +2nd time changing this file
+\ No newline at end of file
